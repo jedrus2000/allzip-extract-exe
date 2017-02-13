@@ -1,5 +1,5 @@
 # allzip-extract-exe
-Bash script to extract under Linux self-extracting Win32 exe file created by AllZIP software.  
+Bash script to extract under Linux self-extracting Win32 exe file created by AlZIP software.  
 
 This tool tries to locate egg https://en.wikipedia.org/wiki/EGG_(file_format) in exe,
 extracts egg file and decompress it.  
